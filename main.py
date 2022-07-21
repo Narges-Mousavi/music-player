@@ -25,7 +25,7 @@ global play
 play = False
 
 
-def play_pause(play2):    # بعد از آپلود آهنگ ها اول از پلی لیست روی آهنگ مورد نظر کلیک و بعد دکمه ی پلی پاز رو فشار بدید
+def play_pause(play2): 
     try:
         global play
         play = play2
