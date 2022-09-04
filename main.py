@@ -168,3 +168,4 @@ speed_btn = tk.Button(mp, padx=16, pady=16, bd=8, text='speed\ncontrol', width=3
 # Speed entry = 2 --> music plays with 2x speed
 
 mp.mainloop()
+# Tkinter - pygame - music player
